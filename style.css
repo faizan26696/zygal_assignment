@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.canvaContainer{
+    display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+#downloadLink {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    background-color: #0b4e52;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
